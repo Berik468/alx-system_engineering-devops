@@ -1,2 +1,2 @@
-#!/bin/bas
+#!/bin/bash
 sudo rm /tmp/my_first_directory/betty
