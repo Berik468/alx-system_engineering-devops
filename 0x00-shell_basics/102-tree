@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /welcome/to/school
+echo -e '#!/bin/bash\nmkdir -p welcome/to/school/'
