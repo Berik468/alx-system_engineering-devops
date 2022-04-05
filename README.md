@@ -1,1 +1,1 @@
-bash scripting project
+bash scripting projects
